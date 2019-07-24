@@ -3,7 +3,7 @@ running a simple nodejs server with docker
 
 to build docker image
 
-run "docker build -t DOCKERID/dockerApp"
+run "docker build -t DOCKERID/dockerApp ."
 
 
 to start app
