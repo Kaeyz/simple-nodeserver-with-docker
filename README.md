@@ -10,4 +10,4 @@ to start app
 
 run "docker run -p 8080:8080 DOCKERID/dockerApp"
 
-N.B replace DOCKERID with you registered dockerId
+N.B replace DOCKERID with your registered dockerId
